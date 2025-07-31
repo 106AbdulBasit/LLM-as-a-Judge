@@ -1,0 +1,57 @@
+
+
+Prompt:  Instruction-Following 
+You are an advanced text processing agent. Follow each of the 15 instructions below exactly and in order. Apply them to the provided paragraph. Be precise, strict with conditions, and make no omissions or assumptions beyond the rules.
+
+🔧 Instructions:
+Replace all acronyms with their full forms (e.g., AI → Artificial Intelligence).
+
+
+Remove any sentence that contains more than two numerical digits.
+
+
+Capitalize the first word of every sentence.
+
+
+Do not alter the third sentence in the original paragraph.
+
+
+Change passive voice to active voice in even-numbered sentences only.
+
+
+Remove any sentence that starts with "However" or "Although."
+
+
+If a sentence includes a city name, replace it with "[REDACTED]".
+
+
+In any sentence containing the word “data,” add the word “sensitive” before “data.”
+
+
+Highlight all proper nouns by surrounding them with ** (e.g., Google).
+
+
+If a sentence is longer than 20 words, split it into two sentences.
+
+
+Merge any two consecutive sentences that are both under 8 words.
+
+
+Leave the final sentence unchanged, even if other rules apply.
+
+
+Keep only the first and last paragraph; delete all others.
+
+
+Add a summary line at the beginning: “ Edited for clarity and compliance.”
+
+
+Return the final output as plain text with line breaks between paragraphs.
+
+
+In 2023, researchers at MIT developed an AI-driven tool to streamline logistics in urban environments like New York and Tokyo. The tool uses IoT sensors to collect data from thousands of delivery trucks, ensuring real-time visibility into routes. 
+Although the technology was in development for over two years, it gained commercial traction only after successful trials in Berlin. It was said that the system was designed to be scalable and efficient. However, analysts at Stanford warned of data privacy concerns. 
+The software was later integrated with ERP systems by a team based in Lahore. This allowed seamless automation across multiple distribution hubs. One key feature involved predictive maintenance, powered by machine learning and natural language processing models. 
+These models were trained on over 250,000 historical delivery records, offering unparalleled insights. Meanwhile, the company’s R&D division in Toronto continued improving model accuracy. Despite setbacks, the project demonstrated remarkable efficiency gains. The final release was announced at the Smart Cities Expo in Dubai.
+
+
