@@ -17,8 +17,8 @@ The repository includes four different evaluation modes:
 
 1. **OpenAI Synchronous**
 2. **Jury of Judges Synchronous**
-3. **Asynchronous**
-4. **Batch Asynchronous**
+3. **Jury Of Judges Asynchronous**
+4. **Jury of Judges Batch Asynchronous**
 
 ## Features
 
